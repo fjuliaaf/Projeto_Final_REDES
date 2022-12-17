@@ -24,6 +24,8 @@ Grupo 5 - Júlia Ferreira, Antony Gabriel, Beatriz Santos e Maria Eduarda Lima
 
 ## Configurações
 
+&nbsp;
+
 ### Gateway Server
 
 &nbsp;
@@ -32,7 +34,7 @@ Grupo 5 - Júlia Ferreira, Antony Gabriel, Beatriz Santos e Maria Eduarda Lima
 
 &nbsp; 
 
-#### Servidores de Nomes
+### Servidores de Nomes
 
 &nbsp;
 
