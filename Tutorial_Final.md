@@ -22,24 +22,23 @@ Grupo 5 - Júlia Ferreira, Antony Gabriel, Beatriz Santos e Maria Eduarda Lima
 
 &nbsp;
 
-<hr>
+## Configurações
 
-## Gateway Server
+### Gateway Server
 
 &nbsp;
 
-## SAMBA
+### SAMBA
 
 &nbsp; 
 
-## Servidores de Nomes
+#### Servidores de Nomes
 
 &nbsp;
 
-## Implementação do Servidor Web LAMP
+### Implementação do Servidor Web LAMP
 
 &nbsp;
 
-<hr>
+## Resultados
 
-### Resultados dos testes
